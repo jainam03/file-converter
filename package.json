@@ -1,0 +1,23 @@
+{
+  "name": "file-converter",
+  "version": "1.0.0",
+  "description": "file conversion formats support\r - Text Documents (.txt, .pdf, .doc, .docx, .html, .xslx)\r   - txt -> pdf, doc, docx, html, xslx\r   - pdf -> txt, doc, docx, html, xslx",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainam03/file-converter.git"
+  },
+  "author": "Jainam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jainam03/file-converter/issues"
+  },
+  "homepage": "https://github.com/jainam03/file-converter#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
