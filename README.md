@@ -17,3 +17,7 @@ file conversion formats support
   - ico -> jpg, png, bmp, gif, webp
   - gif -> jpg, png, bmp, ico, webp
   - webp -> jpg, png, bmp, ico, gif
+
+- Video files (includes .mp4, .mov, .wmv, .avi)
+
+- Audio files (includes .mp3, .m4a, .mp4, .wav, .wma)
