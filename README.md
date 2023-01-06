@@ -22,4 +22,15 @@ file conversion formats support
 
 - Video files (includes .mp4, .mov, .wmv, .avi)
 
+  - mp4 -> mov, wmv, avi
+  - mov -> wmv, avi, amp4
+  - wmv -> avi, mp4, mov
+  - avi -> mp4, mov, .wmv
+
 - Audio files (includes .mp3, .m4a, .mp4, .wav, .wma)
+
+  - mp3 -> m4a, mp4, wav, wma
+  - m4a -> mp4, wav, wma, mp3
+  - mp4 -> wav, wma, mp3, m4a
+  - wav -> wma, mp3, m4a, mp4
+  - wma -> mp3, m4q, mp4, wav
