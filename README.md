@@ -2,15 +2,17 @@
 
 file conversion formats support
 
-- Text Documents (includes various types of text documents such as docx,xslx,pdf and txt)
+- Text Documents (includes various types of text documents such as docx, xslx, pdf, csv and txt)
 
-  - txt -> pdf, doc, docx, html, xslx
-  - pdf -> txt, doc, docx, html, xslx
-  - docx -> doc, pdf, xslx, html, txt
-  - doc -> docx, pdf, xslx, html, txt
-  - xslx -> docx, doc, pdf, txt
+  - txt -> pdf, doc, docx, html, xslx, csv
+  - pdf -> txt, doc, docx, html, xslx, csv
+  - docx -> doc, pdf, xslx, html, txt, csv
+  - doc -> docx, pdf, xslx, html, txt, csv
+  - xslx -> docx, doc, pdf, txt, html, csv
+  - csv -> txt, pdf, doc ,docx, html, xslx
 
 - Image files (includes .jpg,.png,.bmp,.ico,.gif,.webp,)
+
   - jpg -> png, bmp, ico, gif, webp
   - png -> jpg, bmp, ico, gif, webp
   - bmp -> jpg, png, ico, gif, webp
